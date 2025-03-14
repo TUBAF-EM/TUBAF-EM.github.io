@@ -9,3 +9,17 @@ Current members:
 * Jana Börner
 * Mathias Scheunert
 * Sascha Weit
+
+Here, we will host repositories with material for different courses given for MSc (and BSc) students at our university:
+* [Theory of Potential methods](https://github.com/ruboerner/Potential_Theory)
+* [Theory of Electromagnetic methods](https://github.com/ruboerner/ThEM)
+* [Numerical Simulation Methods in Geophysics](https://github.com/halbmy/NumericalGeophysics)
+* [Inverse problems in Geophysics](https://github.com/halbmy/IJulia)
+* [Introduction to Applied Geophysics](https://github.com/halbmy/GeophysicalMethods)
+* Global Geophysics, and more
+
+Furthermore, we will host software for teaching and research
+* [FEMT2 - 2D MT with Finite Elements](https://github.com/ruboerner/FEMT2D)
+* see also software of the [GIMLi group](https://github.com/gimli-org)
+
+and different templates. We use Python and Julia for programming, and Quarto for preparing the texts.
