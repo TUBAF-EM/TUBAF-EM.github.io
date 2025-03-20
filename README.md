@@ -7,8 +7,8 @@ Current members:
 * [Thomas Günther](https://github.com/halbmy)
 * [Ralph-Uwe Börner](https://github.com/ruboerner)
 * [Jana Börner](https://github.com/boerner4)
-* Mathias Scheunert
-* Sascha Weit
+* [Mathias Scheunert](https://github.com/mathias-scheunert)
+* [Sascha Weit](https://github.com/s-weit)
 
 Here, we will host repositories with material for different courses given for MSc (and BSc) students at our university:
 * [Theory of Potential methods](https://github.com/ruboerner/Potential_Theory)
