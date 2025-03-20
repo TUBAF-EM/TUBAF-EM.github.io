@@ -6,7 +6,7 @@ The group [Electromagnetics and Potential fields](https://tu-freiberg.de/en/geop
 Current members:
 * [Thomas Günther](https://github.com/halbmy)
 * [Ralph-Uwe Börner](https://github.com/ruboerner)
-* Jana Börner
+* [Jana Börner](https://github.com/boerner4)
 * Mathias Scheunert
 * Sascha Weit
 
