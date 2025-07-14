@@ -19,7 +19,7 @@ Here, we will host repositories with material for different courses given for MS
 * Global Geophysics, and more
 
 Furthermore, we will host software for teaching and research
-* [FEMT2 - 2D MT with Finite Elements](https://github.com/ruboerner/FEMT2D)
+* [FEMT2D - 2D MT with Finite Elements](https://github.com/ruboerner/FEMT2D)
 * see also software of the [GIMLi group](https://github.com/gimli-org)
 
 and different templates. We use Python and Julia for programming, and Quarto for preparing the texts.
