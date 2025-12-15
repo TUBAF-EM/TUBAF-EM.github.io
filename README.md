@@ -1,5 +1,5 @@
 # TUBAF-EM.github.io
-Github website of the TUBAF EM group
+[Github website of the TUBAF EM group](https://github.com/TUBAF-EM)
 
 The group [Electromagnetics and Potential fields](https://tu-freiberg.de/en/geophysics/electromagnetics-and-potential-methods-working-group) develops software and gives courses at [TU Bergakademie Freiberg](https://tu-freiberg.de)
 
@@ -15,6 +15,7 @@ Here, we will host repositories with material for different courses given for MS
 * [Numerical Simulation Methods in Geophysics](https://github.com/halbmy/NumericalGeophysics)
 * [Inverse problems in Geophysics](https://github.com/halbmy/IJulia)
 * [Introduction to Applied Geophysics](https://github.com/halbmy/GeophysicalMethods)
+* [Geoelektrik & Elektromagnetik](https://tubaf-em.github.io/Geoelektrik_Elektromagnetik/)
 * Global Geophysics, and more
 
 Furthermore, we will host software for teaching and research
