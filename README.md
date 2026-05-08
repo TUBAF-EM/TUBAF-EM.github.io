@@ -7,6 +7,9 @@ Current members:
 * [Ralph-Uwe Börner](https://github.com/ruboerner)
 * [Mathias Scheunert](https://github.com/mathias-scheunert)
 * [Sascha Weit](https://github.com/s-weit)
+* [Dario Jonaca](https://github.com/Divino21)
+* [Henry Steinhoff](https://github.com/HenStei)
+* Philipp Kotowski
 
 On Github, we host repositories containing online scripts and slides for different courses in MSc and BSc level:
 * [Theory of Potential Field Methods in Geophysics](https://ruboerner.github.io/Potential_Theory/)
@@ -20,7 +23,7 @@ On Github, we host repositories containing online scripts and slides for differe
 
 Furthermore, we will host software for teaching and research
 * [pyGIMLi](https://www.pygimli.org) and other repos of the [GIMLi group](https://github.com/gimli-org)
-* FEMALY
-* [FEMT2D - 2D MT with Finite Elements](https://github.com/ruboerner/FEMT2D)
+* FEMALY (Matlab)
+* [FEMT2D - 2D MT with Finite Elements](https://github.com/ruboerner/FEMT2D) (Matlab)
 
-and different templates. We use mainly Python (and Julia and Matlab) for programming, and [Quarto](https://quarto.org) for preparing the scripts and slides.
+and different templates. We use mainly Python (and Julia and Matlab) for programming, and [Quarto](https://quarto.org) for preparing scripts and slides.
