@@ -22,9 +22,11 @@ On Github, we host repositories containing online scripts and slides for differe
 * [Gravimetrie](https://ruboerner.github.io/Gravimetrie/) (in German, Gravity)
 * Global Geophysics, and more
 
-Furthermore, we will host software for teaching and research
+Furthermore, we share software for teaching and research
 * [pyGIMLi](https://www.pygimli.org) and other repos of the [GIMLi group](https://github.com/gimli-org)
-* FEMALY (Matlab)
+* [FEMALY](https://github.com/TUBAF-EM/gji_tem_2025) (Matlab)
 * [FEMT2D - 2D MT with Finite Elements](https://github.com/ruboerner/FEMT2D) (Matlab)
+* [GravMag3D (Matlab)](https://github.com/ruboerner/GravMag3D) and [pyGravMag3D (Python)](https://github.com/ruboerner/pygravmag3d)
+* software and data of the [DESMEX group](https://github.com/DESMEXproject)
 
 and different templates. We use mainly Python (and Julia and Matlab) for programming, and [Quarto](https://quarto.org) for preparing scripts and slides.
