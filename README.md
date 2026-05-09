@@ -6,6 +6,7 @@ Current members:
 * [Thomas Günther](https://github.com/halbmy)
 * [Ralph-Uwe Börner](https://github.com/ruboerner)
 * [Mathias Scheunert](https://github.com/mathias-scheunert)
+* [Klaus Spitzer](https://github.com/klausspitzer)
 * [Sascha Weit](https://github.com/s-weit)
 * [Dario Jonaca](https://github.com/Divino21)
 * [Henry Steinhoff](https://github.com/HenStei)
