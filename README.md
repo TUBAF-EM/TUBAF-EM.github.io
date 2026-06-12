@@ -23,6 +23,9 @@ On Github, we host repositories containing online scripts and slides for differe
 
 Furthermore, we share software for teaching and research
 * [pyGIMLi](https://www.pygimli.org) and other repos of the [GIMLi group](https://github.com/gimli-org)
+* [TDIP](https://github.com/TUBAF-EM/TDIP) time-domain induced polarization
+* [FDIP](https://github.com/TUBAF-EM/FDIP) frequency-domain induced polarization
+* [pyTEM](https://github.com/TUBAF-EM) Transient Electromagnetics
 * [FEMALY](https://github.com/TUBAF-EM/gji_tem_2025) (Matlab)
 * [FEMT2D - 2D MT with Finite Elements](https://github.com/ruboerner/FEMT2D) (Matlab)
 * [GravMag3D (Matlab)](https://github.com/ruboerner/GravMag3D) and [pyGravMag3D (Python)](https://github.com/ruboerner/pygravmag3d)
